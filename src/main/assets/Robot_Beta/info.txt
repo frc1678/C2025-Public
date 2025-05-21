@@ -1,0 +1,9 @@
+model   : drivetrain
+model_0 : algae intake
+model_1 : elevator stage 1
+model_2 : elevator stage 2
+model_3 : pivot
+model_4 : coral intake powered bar
+model_5 : coral intake unpowered bar
+model_6 : main coral intake
+model_7 : climber
